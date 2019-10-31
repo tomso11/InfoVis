@@ -12,3 +12,6 @@
 * [2019/W38](https://raw.githubusercontent.com/tsoracco/InfoVis/master/w7/world1.png)
   + [2019/W38](https://raw.githubusercontent.com/tsoracco/InfoVis/master/w7/world2.png)
  * [2019/W39](https://raw.githubusercontent.com/tsoracco/InfoVis/master/w8/eviction_notice.PNG)
+ * [2019/W41](https://prod-useast-a.online.tableau.com/#/site/tsoracco/views/W41-Donations/Dashboard1?:iid=1)
+ * [2019/W42](https://prod-useast-a.online.tableau.com/#/site/tsoracco/views/W42-IronManMedallists/Definitivo?:iid=1)
+ 
